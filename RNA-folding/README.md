@@ -1,4 +1,4 @@
-# 2023-Stanford-Ribonanza-RNA-Folding
+#RNA-Folding
 This repository <b>is an unsubmitted Solution</b> of [the Stanford Ribonanza RNA Folding competition 2023](https://www.kaggle.com/competitions/stanford-ribonanza-rna-folding/overview). Training was conducted on one GeForce RTX 3080 GPU. The result of the 10-fold + 1 model in 100-fold ensemble models was as follows.  
 
 # Summary
